@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Khaled ELsayed</h1>
 <h3 align="center">🚀 Electronics and Embedded Systems Engineer | Digital Design and implementation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmankhaled826&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmankhaled826" /> </p>
 
+<p align="center">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZsdWJpdzRlNmVtc2liMDYxeXkzeno3Y2I1eTdpN2NmNHRyMnpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmankhaled826&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmankhaled826" /> </p>
 
 ## 🚀 About Me
 
@@ -88,9 +91,9 @@ I’m ECE graduated engineer with a strong foundation in ASIC and Digital Design
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbdelrahmanKhaled826?tab=repositories](https://github.com/AbdelrahmanKhaled826?tab=repositories)
+- 👨‍💻 All of my projects are available at [AbdelrahmanKhaled](https://github.com/AbdelrahmanKhaled826?tab=repositories)
 
-- 📫 How to reach me **abdokhaled1712002@gmail.com**
+- 📫 How to reach me ***abdokhaled1712002@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
