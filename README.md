@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Khaled ELsayed</h1>
-<h3 align="center">🚀 Electronics and Embedded Systems Engineer | Digital Design and implementation</h3>
+<h3 align="center">🚀 Electronics Engineer | Digital Design and implementation</h3>
 
 
 <p align="center">
