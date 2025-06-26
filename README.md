@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmankhaled826&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmankhaled826" /> </p>
 
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZsdWJpdzRlNmVtc2liMDYxeXkzeno3Y2I1eTdpN2NmNHRyMnpvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+
 ## 🚀 About Me
 
 I’m ECE graduated engineer with a strong foundation in ASIC and Digital Design looking for a challenging opportunity in this field that utilizes academic background and my skills. 
