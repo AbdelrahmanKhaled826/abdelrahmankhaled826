@@ -10,9 +10,14 @@
 
 ## 🚀 About Me
 
-I’m ECE graduated engineer with a strong foundation in ASIC and Digital Design looking for a challenging opportunity in this field that utilizes academic background and my skills. 
+🎓 ECE Graduate | ASIC & Digital Design Enthusiast
+I'm a 2024 Electronics & Communications Engineering graduate (Excellent with Honors) with a strong passion for ASIC Physical Design and Digital IC Design. I've completed hands-on internships and diplomas focused on RTL-to-GDSII flows, STA, DFT, Clock Tree Synthesis, and Place & Route, using industry-standard tools like Synopsys DC, ICC II, PrimeTime, and Formality.
 
-🎓 **Education**: Bachelor of Electronics and Communication engineering at Faculty of Engineering Shoubra, Benha University.     (2019–2024).
+🚀 I thrive on solving complex design challenges and building real silicon systems — from RISC-V cores to I2C, SPI, and AES modules — with a focus on performance, power, and reliability.
+
+🔧 Core Skills: Verilog, RTL Design, Synopsys Tools, STA, TCL, FPGA, CDC, DFT
+
+I'm actively seeking challenging opportunities in ASIC and Digital Design to grow further and contribute to cutting-edge VLSI innovation.
 
 ---
 
